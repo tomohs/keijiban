@@ -1,0 +1,104 @@
+.logo img{
+    width:40%;
+}
+
+.headerList{
+    background-color:black;
+    width:100%; 
+    height:40px;
+    color:white;
+    font-size:12px;
+}
+
+.headerList ul{
+    list-style: none;
+}
+
+.headerList li{
+    display: inline-block;
+    line-height:40px;
+    padding-right:15px;
+}
+
+
+.content-wrapper{
+    display:inline-block;
+    width:70%;
+    vertical-align:top;
+
+}
+
+.content-wrapper h3{
+    border-left:4px solid red;
+    padding-left:5px;
+}
+
+.contentA{
+    text-align: left;
+    margin-right:10px;
+    margin-bottom: 10px;
+    padding: 0 0 10px 10px;
+    background-color:#eadada;
+    border: 2px solid #ddd;
+    border-radius:5px;
+    
+}
+.contentA p{
+    font-size: 14px;
+}
+
+h2{
+    border-bottom: 1px solid black;
+    border-left: 5px solid black;
+    margin: 8px 0;
+    padding-left:5px;
+}
+
+.submit{
+    background-color:#999;
+    color:white;
+}
+
+.kiji{
+    padding:4px;
+}
+.kiji h3{
+    border:none;
+}
+
+.contentB{
+    display:inline-block;
+    width:25%;
+    text-align: left;
+    
+}
+
+.side{
+    
+}
+
+.side h3{
+    border-bottom: 1px dashed black;
+    margin : 2px 0;
+}
+
+.side ul{
+    list-style: none;
+    padding-left:10px;
+    font-size:14px;
+    margin: 0px 0;
+}
+
+.side li{
+    line-height: 30px;
+}
+
+footer{
+    width:100%; 
+    height:50px;
+    color:white;
+    background-color:black;
+    font-size:14px;
+    text-align:center;
+    line-height:50px;
+}
